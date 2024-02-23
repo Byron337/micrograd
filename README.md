@@ -1,2 +1,1 @@
-![neuron.png] 
-(neuron.png)
+![neuron.png](neuron.png)
