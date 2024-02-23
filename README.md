@@ -1,2 +1,2 @@
-! [jhzkjdhvkjdh] 
+![neuron.png] 
 (neuron.png)
