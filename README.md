@@ -1,8 +1,7 @@
 cs231n neuron 
 
 ![neuron.png](neuron.png)
-
-This is image is some confusin but the the second image it's show most clearly
+first image is some confusin but the the second image it's show most clearly
 
 
  
