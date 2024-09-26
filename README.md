@@ -6,13 +6,16 @@ cs231n neuron
 ▶• ılıılıılılıııılıılı. 0
 
 ![neuron.png](neuron.png)
+
 first image is some confusin but the the second image it's show most clearly
+
 
 
 ☁︎           _Π_____       ☁︎
         /______/__＼☀︎
 ˚ ˛˚˛˚｜ 田田｜門   ｜ ˚ ˚
 ´´ ̛ ̛ ´´ ´´ ´´ ̛ ̛ ´´ ´´ ´´ ̛ ̛ ´´ ´´ ´´ ̛ ̛
+
 
  
 ![](neuron_model.jpeg)
